@@ -1,0 +1,6 @@
+Inicio do combate: Dwalin vs Legolas
+Legolas usou item: buff_ataque (valor: 2)
+Vencedor: Dwalin
+Dwalin ganhou 10 XP (total: 10)
+Dwalin subiu para o nível 2!
+Ganhou +3 vida, +1 ataque, +1 defesa, +1 habilidade
