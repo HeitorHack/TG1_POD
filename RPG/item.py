@@ -1,4 +1,4 @@
-# item.py
+
 from abc import ABC, abstractmethod
 
 class Item(ABC):
