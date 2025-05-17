@@ -1,4 +1,4 @@
-# Arquivo: RPG/dado.py
+
 from abc import ABC, abstractmethod
 import random
 
