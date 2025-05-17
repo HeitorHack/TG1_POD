@@ -1,4 +1,4 @@
-# arena.py
+
 import random
 from RPG.personagem import Personagem
 from RPG.dado import D20
