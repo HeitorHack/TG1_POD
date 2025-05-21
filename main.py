@@ -1,4 +1,4 @@
-
+#Heitor Hack e Antônio Vilela 
 import sys
 import random
 from RPG.classe import Guerreiro, Mago, Ladino
